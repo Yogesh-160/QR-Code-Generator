@@ -32,7 +32,3 @@ Contributions to the QR Code Generator project are welcome. If you encounter any
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Special thanks to Yogesh-160 for developing and maintaining this QR Code Generator.
